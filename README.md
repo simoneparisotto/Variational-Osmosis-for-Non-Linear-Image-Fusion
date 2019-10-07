@@ -1,5 +1,7 @@
 # Variational Osmosis for Non-Linear Image Fusion
 
+<img src="https://raw.githubusercontent.com/simoneparisotto/Variational-Osmosis-for-Non-Linear-Image-Fusion/blob/master/extra/manuscript_restoration.png" width=100%> 
+
 **Author**: Simone Parisotto
 
 **Other Authors** 
