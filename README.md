@@ -24,7 +24,7 @@ This is a companion software for the [submission](https://arxiv.org/pdf/1910.020
  month         = {oct}, 
  journal       = {ArXiv e-prints},
  archivePrefix = {arXiv},
- eprint={1910.02012},
+ eprint        = {1910.02012},
 }
 ```
 
